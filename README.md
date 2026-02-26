@@ -9,10 +9,13 @@ To implement a logistic regression model to classify food items for diabetic pat
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Logistic Regression is used to classify data into different categories based on input features.
+
+2.Label Encoding converts categorical target values into numerical form for model training.
+
+3.Min-Max Scaling normalizes feature values to improve model performance.
+
+4.Train-Test Split divides the dataset into training and testing sets for evaluation.
 
 ## Program:
 ```
