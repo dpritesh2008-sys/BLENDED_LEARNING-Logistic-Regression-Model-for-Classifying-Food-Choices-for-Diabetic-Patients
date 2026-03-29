@@ -101,7 +101,11 @@ print("Reg. No: 212225040339")
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+<img width="653" height="487" alt="image" src="https://github.com/user-attachments/assets/8ebc62cd-494b-463b-b887-ffc9c6caea06" />
+<img width="450" height="242" alt="image" src="https://github.com/user-attachments/assets/7cde4263-6ad2-4922-850f-8bfc66893eeb" />
+<img width="165" height="53" alt="image" src="https://github.com/user-attachments/assets/ec29000c-22eb-4522-8f3c-2f32987c02dc" />
+<img width="161" height="37" alt="image" src="https://github.com/user-attachments/assets/81b5e1b0-357a-41f3-a79b-5f39c0d8c8b4" />
+
 
 
 ## Result:
