@@ -39,8 +39,8 @@ import matplotlib.pyplot as plt
 df = pd.read_csv("food_items.csv")
 
 # Inspect the dataset
-print("Name: Balasurya S")
-print("Reg. No: 212225100003")
+print("Name: Ritesh DP")
+print("Reg. No: 212225040339")
 print("Dataset Overview:")
 print(df.head())
 
